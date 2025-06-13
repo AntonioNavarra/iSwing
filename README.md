@@ -1,8 +1,6 @@
 # iSwing
 
-<div align="center">
-
-![PreviewBeezzzGithub](https://github.com/user-attachments/assets/326aeec7-29e8-4721-8d95-3981d1dcd59c)
+![PreviewBeezzzGithub](https://github.com/user-attachments/assets/f872e598-545c-4f29-ae26-d51a6e0db222)
 
 **Advanced Golf Swing Analysis using Apple Watch & Machine Learning**
 
